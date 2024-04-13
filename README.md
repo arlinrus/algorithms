@@ -1,8 +1,8 @@
-### Algorithms and data structere.
-There some sorts with the help of golang like:
+### Algorithms and Data Structures
+В этом разделе представлены различные методы сортировки с использованием языка программирования Go:
 
-- merge sort
-- bubble sort
-- counting sort
-- insertion sort
-- quick sort
+Сортировка слиянием (Merge Sort)
+Пузырьковая сортировка (Bubble Sort)
+Сортировка подсчетом (Counting Sort)
+Сортировка вставками (Insertion Sort)
+Быстрая сортировка (Quick Sort)
