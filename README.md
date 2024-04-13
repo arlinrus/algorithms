@@ -1,4 +1,4 @@
-###Algorithms and data structere.
+### Algorithms and data structere.
 There some sorts with the help of golang like:
 
 - merge sort
